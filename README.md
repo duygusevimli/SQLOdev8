@@ -1,0 +1,2 @@
+# SQLOdev8
+SQLÖDEVİ8
